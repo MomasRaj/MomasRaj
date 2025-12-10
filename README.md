@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My Contribution Graph
+<h2 align="center">My Contribution Graph</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/MomasRaj/MomasRaj/output/pacman-contribution-graph-dark.svg">
